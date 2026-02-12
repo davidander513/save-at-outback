@@ -96,8 +96,6 @@ Every entrée includes two sides. Choose smart:
 
 ## Hidden Deals and Discount Programs
 
-![Timing and Rewards Strategy Dashboard](timing-rewards-dashboard.png)
-
 ### Dine Rewards Program
 
 Free to join — works at Outback, Carrabba's, Bonefish Grill, Fleming's.
@@ -108,6 +106,7 @@ Free to join — works at Outback, Carrabba's, Bonefish Grill, Fleming's.
 - App offers: 20% off entire check, BOGO entrées, free apps
 
 **Pro move**: Stack with everything else (gift cards, promotions, credit card rewards).
+![Timing and Rewards Strategy Dashboard](timing-rewards-dashboard.png)
 
 ### Discounted Gift Cards
 
