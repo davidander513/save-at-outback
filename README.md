@@ -1,6 +1,6 @@
 # How to Save Money at Outback Steakhouse: Menu Hacks and Hidden Deals
 
-![Outback Steakhouse Restaurant](images/outback-exterior-menu.png)
+![Outback Steakhouse Restaurant](outback-exterior-menu.png)
 
 I've been eating at steakhouses across America for over 15 years. I've managed restaurants, analyzed pricing strategies, and spent way too much of my own money figuring out what actually works. Here's the truth: most people are overpaying at Outback Steakhouse — often by $30–50 per visit. That adds up fast when the average American family spends over $3,000 a year dining out.
 
@@ -59,7 +59,7 @@ The lunch menu is Outback's best-kept secret.
 
 Smaller portion, 35–40% lower price — do the math.
 
-![Savings Comparison Infographic](images/savings-comparison.png)
+![Savings Comparison Infographic](savings-comparison.png)
 
 ### 3. The Protein Swap & Customization Trick
 
@@ -92,11 +92,11 @@ Every entrée includes two sides. Choose smart:
 
 **Pro move**: Ask for extra bread, butter, or vegetables — often free.
 
-![Smart Ordering and Sharing Strategies](images/smart-ordering-sharing.png)
+![Smart Ordering and Sharing Strategies](smart-ordering-sharing.png)
 
 ## Hidden Deals and Discount Programs
 
-![Timing and Rewards Strategy Dashboard](images/timing-rewards-dashboard.png)
+![Timing and Rewards Strategy Dashboard](timing-rewards-dashboard.png)
 
 ### Dine Rewards Program
 
@@ -132,7 +132,7 @@ Takes 3 minutes. Keep codes in your phone/wallet. Perpetual free appetizers.
 
 Follow your local Outback on Facebook/Instagram — flash deals appear there first.
 
-![Price Traps and Delivery Markup Comparison](images/price-traps-delivery.png)
+![Price Traps and Delivery Markup Comparison](price-traps-delivery.png)
 
 ## Timing Is Everything
 
@@ -160,7 +160,7 @@ Before: $103 → After (sharing + discounted gift card): $40 out-of-pocket → *
 **Solo Diner**  
 Before: $34 → After (lunch + rewards): $18 → **Saved $16 (47%)**
 
-![Complete Savings Journey Case Study](images/savings-case-study.png)
+![Complete Savings Journey Case Study](savings-case-study.png)
 
 ## Quick Start Checklist
 
